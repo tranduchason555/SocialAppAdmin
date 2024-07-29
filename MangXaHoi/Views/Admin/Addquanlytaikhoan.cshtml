@@ -1,0 +1,62 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model MangXaHoi.Models.User
+<div class="container-fluid">
+    <div class="row">
+        <!-- left column -->
+        <div class="col-md-12">
+            <!-- jquery validation -->
+            <div class="card card-primary">
+                <div class="card-header">
+                    <h3 class="card-title">Thêm tài khoản admin</h3>
+                </div>
+                <!-- /.card-header -->
+                <!-- form start -->
+                <form id="quickForm" method="post" asp-controller="admin" asp-action="addquanlytaikhoan" enctype="multipart/form-data">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Email</label>
+                            <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Mời nhập email" asp-for="Email">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Mật khẩu</label>
+                            <input type="password" name="password" class="form-control" id="exampleInputPassword1" placeholder=" Mời nhập Password" asp-for="Password">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Họ tên</label>
+                            <input type="text" name="fullname" class="form-control" id="fullname" placeholder="Mời nhập họ và tên" asp-for="Fullname">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Địa chỉ</label>
+                            <input type="text" name="address" class="form-control" id="address" placeholder="Mời nhập địa chỉ" asp-for="Address">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Tuổi</label>
+                            <input type="text" name="age" class="form-control" id="age" placeholder="Mời nhập tuổi" asp-for="Age">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Số điện thoại</label>
+                            <input type="text" name="phone" class="form-control" id="phone" placeholder="Mời nhập số điện thoại" asp-for="Phone">
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Chọn file ảnh</label>
+                            <input type="file" name="file" class="form-control" id="photo" placeholder="Mời chọn hình" asp-for="Photo">
+                        </div>
+                    </div>
+                    <!-- /.card-body -->
+                    <div class="card-footer">
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
+                </form>
+            </div>
+            <!-- /.card -->
+        </div>
+        <!--/.col (left) -->
+        <!-- right column -->
+        <div class="col-md-6">
+        </div>
+        <!--/.col (right) -->
+    </div>
+    <!-- /.row -->
+</div><!-- /.container-fluid -->

@@ -1,0 +1,278 @@
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\appsettings.Development.json
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\appsettings.json
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.exe
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.deps.json
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.runtimeconfig.json
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.pdb
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Azure.Core.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Azure.Identity.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Castle.Core.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Humanizer.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.CodeDom.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Text.Json.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.csproj.AssemblyReference.cache
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.AssemblyInfoInputs.cache
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.AssemblyInfo.cs
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.csproj.CoreCompileInputs.cache
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.MvcApplicationPartsAssemblyInfo.cache
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.RazorAssemblyInfo.cache
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.RazorAssemblyInfo.cs
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets.build.json
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets.development.json
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets\msbuild.MangXaHoi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets\msbuild.build.MangXaHoi.props
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MangXaHoi.props
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MangXaHoi.props
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\scopedcss\bundle\MangXaHoi.styles.css
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.csproj.Up2Date
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.dll
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\refint\MangXaHoi.dll
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.pdb
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.genruntimeconfig.cache
+D:\MangXaHoi\MangXaHoi\obj\Debug\net8.0\ref\MangXaHoi.dll
+D:\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.staticwebassets.runtime.json
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\appsettings.Development.json
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\appsettings.json
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.staticwebassets.runtime.json
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.exe
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.deps.json
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.runtimeconfig.json
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\MangXaHoi.pdb
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Azure.Core.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Castle.Core.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Humanizer.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.CodeDom.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Text.Json.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.csproj.AssemblyReference.cache
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.AssemblyInfoInputs.cache
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.AssemblyInfo.cs
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.csproj.CoreCompileInputs.cache
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.MvcApplicationPartsAssemblyInfo.cache
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.RazorAssemblyInfo.cache
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.RazorAssemblyInfo.cs
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets\msbuild.MangXaHoi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets\msbuild.build.MangXaHoi.props
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MangXaHoi.props
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MangXaHoi.props
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\scopedcss\bundle\MangXaHoi.styles.css
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.csproj.Up2Date
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\refint\MangXaHoi.dll
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.pdb
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\MangXaHoi.genruntimeconfig.cache
+D:\Huflit\Lập trình di động nâng cao\DoAnAPI\MangXaHoi\MangXaHoi\obj\Debug\net8.0\ref\MangXaHoi.dll

@@ -1,0 +1,934 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\views\\admin\\quanlytaikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\views\\admin\\quanlytaikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\messageserviceimpl .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\messageserviceimpl .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\friendshipserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\friendshipserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\contentfriendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\contentfriendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\messageservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\messageservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\wwwroot\\images\\avatar12.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\wwwroot\\images\\avatar12.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\storyfriendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\storyfriendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\contentfriendshipserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\contentfriendshipserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\friendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\friendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\reportserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\reportserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\notificationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\notificationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\commentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\commentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\chatserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\chatserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\wwwroot\\images\\avatar3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\wwwroot\\images\\avatar3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\wwwroot\\images\\avatar4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\wwwroot\\images\\avatar4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\wwwroot\\images\\avatar9.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\wwwroot\\images\\avatar9.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\storyfriendshipserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\storyfriendshipserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\saveserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\saveserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\storyfriendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\storyfriendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\saveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\saveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\contentfriendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\contentfriendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\controllers\\savecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\controllers\\savecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\views\\admin\\quanlybaiviet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\views\\admin\\quanlybaiviet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\services\\likeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\services\\likeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\views\\admin\\addquanlytaikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\views\\admin\\addquanlytaikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\wwwroot\\dist\\js\\pages\\dashboard3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\wwwroot\\dist\\js\\pages\\dashboard3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\wwwroot\\dist\\js\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\wwwroot\\dist\\js\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\wwwroot\\dist\\css\\alt\\adminlte.components.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\wwwroot\\dist\\css\\alt\\adminlte.components.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\wwwroot\\dist\\plugins\\chart.js\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\wwwroot\\dist\\plugins\\chart.js\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\wwwroot\\dist\\plugins\\chart.js\\chart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\wwwroot\\dist\\plugins\\chart.js\\chart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|d:\\huflit\\l\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\doanapi\\mangxahoi\\mangxahoi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447F732-80E8-4982-B498-8A0351FC20D9}|MangXaHoi\\MangXaHoi.csproj|solutionrelative:mangxahoi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "MangXaHoi\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "MangXaHoi\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAqwJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:09:25.9Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quanlytaikhoan.cshtml",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Admin\\Quanlytaikhoan.cshtml",
+              "RelativeDocumentMoniker": "MangXaHoi\\Views\\Admin\\Quanlytaikhoan.cshtml",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Admin\\Quanlytaikhoan.cshtml",
+              "RelativeToolTip": "MangXaHoi\\Views\\Admin\\Quanlytaikhoan.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T04:55:42.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FriendshipServiceImpl.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\FriendshipServiceImpl.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\FriendshipServiceImpl.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\FriendshipServiceImpl.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\FriendshipServiceImpl.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAswKUAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:27:34.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContentfriendshipService.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ContentfriendshipService.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\ContentfriendshipService.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ContentfriendshipService.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\ContentfriendshipService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:03:07.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageService .cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\MessageService .cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\MessageService .cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\MessageService .cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\MessageService .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:40:23.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageServiceImpl .cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\MessageServiceImpl .cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\MessageServiceImpl .cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\MessageServiceImpl .cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\MessageServiceImpl .cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBEAAACxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:27:31.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "avatar12.jpg - Bitmap [236x314, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\images\\avatar12.jpg",
+              "RelativeDocumentMoniker": "MangXaHoi\\wwwroot\\images\\avatar12.jpg",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\images\\avatar12.jpg - Bitmap [236x314, 24 bit, JPG]",
+              "RelativeToolTip": "MangXaHoi\\wwwroot\\images\\avatar12.jpg - Bitmap [236x314, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-25T15:32:06.76Z",
+              "EditorCaption": " - Bitmap [236x314, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Models\\DatabaseContext.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "MangXaHoi\\Models\\DatabaseContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:26:21.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\appsettings.json",
+              "RelativeDocumentMoniker": "MangXaHoi\\appsettings.json",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\appsettings.json",
+              "RelativeToolTip": "MangXaHoi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T04:13:35.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoryFriendshipController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\StoryFriendshipController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\StoryFriendshipController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\StoryFriendshipController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\StoryFriendshipController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAkwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:56:00.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAqwKoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:50:20.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FriendshipController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\FriendshipController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\FriendshipController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\FriendshipController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\FriendshipController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:46:35.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContentfriendshipServiceImpl.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ContentfriendshipServiceImpl.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\ContentfriendshipServiceImpl.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ContentfriendshipServiceImpl.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\ContentfriendshipServiceImpl.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwPcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:03:08.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FriendshipService.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\FriendshipService.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\FriendshipService.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\FriendshipService.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\FriendshipService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:36:37.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MangXaHoi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MangXaHoi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T04:27:58.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Program.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Program.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Program.cs",
+              "RelativeToolTip": "MangXaHoi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:13:46.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LikeService.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\LikeService.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\LikeService.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\LikeService.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\LikeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:27:33.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserServiceImpl.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\UserServiceImpl.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\UserServiceImpl.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\UserServiceImpl.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\UserServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:53:41.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportServiceImpl.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ReportServiceImpl.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\ReportServiceImpl.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ReportServiceImpl.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\ReportServiceImpl.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAwGcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:56:39.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotificationServiceImpl.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\NotificationServiceImpl.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\NotificationServiceImpl.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\NotificationServiceImpl.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\NotificationServiceImpl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:27:27.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\NotificationService.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\NotificationService.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:06:19.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommentServiceImpl.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\CommentServiceImpl.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\CommentServiceImpl.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\CommentServiceImpl.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\CommentServiceImpl.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:03:05.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\CommentService.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\CommentService.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\CommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:03:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "avatar3.jpg - Bitmap [474x474, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\images\\avatar3.jpg",
+              "RelativeDocumentMoniker": "MangXaHoi\\wwwroot\\images\\avatar3.jpg",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\images\\avatar3.jpg - Bitmap [474x474, 24 bit, JPG]",
+              "RelativeToolTip": "MangXaHoi\\wwwroot\\images\\avatar3.jpg - Bitmap [474x474, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-24T15:18:26.762Z",
+              "EditorCaption": " - Bitmap [474x474, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChatServiceImpl.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ChatServiceImpl.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\ChatServiceImpl.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ChatServiceImpl.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\ChatServiceImpl.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:03:01.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\ChatService.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ChatService.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\ChatService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:02:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:08:58.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "avatar4.jpg - Bitmap [1125x1125, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\images\\avatar4.jpg",
+              "RelativeDocumentMoniker": "MangXaHoi\\wwwroot\\images\\avatar4.jpg",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\images\\avatar4.jpg - Bitmap [1125x1125, 24 bit, JPG]",
+              "RelativeToolTip": "MangXaHoi\\wwwroot\\images\\avatar4.jpg - Bitmap [1125x1125, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-24T15:18:25.185Z",
+              "EditorCaption": " - Bitmap [1125x1125, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "avatar9.jpg - Bitmap [420x420, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\images\\avatar9.jpg",
+              "RelativeDocumentMoniker": "MangXaHoi\\wwwroot\\images\\avatar9.jpg",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\images\\avatar9.jpg - Bitmap [420x420, 24 bit, JPG]",
+              "RelativeToolTip": "MangXaHoi\\wwwroot\\images\\avatar9.jpg - Bitmap [420x420, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-24T15:34:33.775Z",
+              "EditorCaption": " - Bitmap [420x420, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:41:52.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\UserService.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\UserService.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:44:47.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LikeController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\LikeController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\LikeController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\LikeController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\LikeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:34:43.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StoryfriendshipServiceImpl.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\StoryfriendshipServiceImpl.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\StoryfriendshipServiceImpl.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\StoryfriendshipServiceImpl.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\StoryfriendshipServiceImpl.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:27:19.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SaveServiceImpl.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\SaveServiceImpl.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\SaveServiceImpl.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\SaveServiceImpl.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\SaveServiceImpl.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwCAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:51:28.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StoryfriendshipService.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\StoryfriendshipService.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\StoryfriendshipService.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\StoryfriendshipService.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\StoryfriendshipService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:46:20.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAiwF4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:41:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwJkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:48:49.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\ReportService.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\ReportService.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\ReportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:49:26.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SaveService.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\SaveService.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\SaveService.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\SaveService.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\SaveService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:45:44.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ContentFriendshipController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\ContentFriendshipController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\ContentFriendshipController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\ContentFriendshipController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\ContentFriendshipController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAuwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:07:02.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:58:57.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:35:30.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SaveController.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\SaveController.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Controllers\\SaveController.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Controllers\\SaveController.cs",
+              "RelativeToolTip": "MangXaHoi\\Controllers\\SaveController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:55:59.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Quanlybaiviet.cshtml",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Admin\\Quanlybaiviet.cshtml",
+              "RelativeDocumentMoniker": "MangXaHoi\\Views\\Admin\\Quanlybaiviet.cshtml",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Admin\\Quanlybaiviet.cshtml",
+              "RelativeToolTip": "MangXaHoi\\Views\\Admin\\Quanlybaiviet.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T04:55:42.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Models\\Report.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Models\\Report.cs",
+              "RelativeToolTip": "MangXaHoi\\Models\\Report.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:53:09.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LikeServiceImpl.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\LikeServiceImpl.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Services\\LikeServiceImpl.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Services\\LikeServiceImpl.cs",
+              "RelativeToolTip": "MangXaHoi\\Services\\LikeServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:21:55.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "MangXaHoi\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "MangXaHoi\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:19:50.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MangXaHoi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MangXaHoi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:21:04.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Addquanlytaikhoan.cshtml",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Admin\\Addquanlytaikhoan.cshtml",
+              "RelativeDocumentMoniker": "MangXaHoi\\Views\\Admin\\Addquanlytaikhoan.cshtml",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Views\\Admin\\Addquanlytaikhoan.cshtml",
+              "RelativeToolTip": "MangXaHoi\\Views\\Admin\\Addquanlytaikhoan.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:26:31.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Models\\User.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Models\\User.cs",
+              "RelativeToolTip": "MangXaHoi\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:19:30.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MangXaHoi\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\_ViewImports.cshtml",
+              "RelativeToolTip": "MangXaHoi\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T04:53:20.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Chart.js",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\dist\\plugins\\chart.js\\Chart.js",
+              "RelativeDocumentMoniker": "MangXaHoi\\wwwroot\\dist\\plugins\\chart.js\\Chart.js",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\dist\\plugins\\chart.js\\Chart.js",
+              "RelativeToolTip": "MangXaHoi\\wwwroot\\dist\\plugins\\chart.js\\Chart.js",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-20T08:06:57.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Chart.css",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\dist\\plugins\\chart.js\\Chart.css",
+              "RelativeDocumentMoniker": "MangXaHoi\\wwwroot\\dist\\plugins\\chart.js\\Chart.css",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\dist\\plugins\\chart.js\\Chart.css",
+              "RelativeToolTip": "MangXaHoi\\wwwroot\\dist\\plugins\\chart.js\\Chart.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-20T08:06:52.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "adminlte.components.css",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+              "RelativeDocumentMoniker": "MangXaHoi\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+              "RelativeToolTip": "MangXaHoi\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-20T08:07:53.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "dashboard3.js",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+              "RelativeDocumentMoniker": "MangXaHoi\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+              "RelativeToolTip": "MangXaHoi\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-20T08:08:17.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\dist\\js\\pages\\dashboard.js",
+              "RelativeDocumentMoniker": "MangXaHoi\\wwwroot\\dist\\js\\pages\\dashboard.js",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\wwwroot\\dist\\js\\pages\\dashboard.js",
+              "RelativeToolTip": "MangXaHoi\\wwwroot\\dist\\js\\pages\\dashboard.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-20T08:08:15.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "MangXaHoi\\Models\\Role.cs",
+              "ToolTip": "D:\\Huflit\\L\u1EADp tr\u00ECnh di \u0111\u1ED9ng n\u00E2ng cao\\DoAnAPI\\MangXaHoi\\MangXaHoi\\Models\\Role.cs",
+              "RelativeToolTip": "MangXaHoi\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:15:12.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

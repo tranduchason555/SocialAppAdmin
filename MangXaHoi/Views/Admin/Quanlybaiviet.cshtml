@@ -1,0 +1,49 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">Thông tin bài viết @TempData["msg"]</h3>
+                </div>
+                <!-- /.card-header -->
+                <div class="card-body">
+                    <table id="example1" class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Hình đại diện</th>
+                                <th>Họ tên </th>
+                                <th>Nội dung bài viết</th>
+                                <th>Hình bài viết</th>
+                                <th>Báo cáo</th>
+                                <th>Trạng thái</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in ViewBag.dsbaiviet)
+                            {
+                                <tr>
+                                    <td>@item.Id</td>
+                                    <td><img src="@item.UserPhoto" height="100" width="100" /></td>
+                                    <td>@item.Fullname</td>
+                                    <td>@item.Content</td>
+                                    <td><img src="@item.ContentPhoto" height="100" width="100" /></td>
+                                    <td>@item.Report</td>
+                                    <td align="center" ><a asp-action="removebaiviet" asp-route-id="@item.Id" asp-controller="admin" onclick="return confirm('Bạn có muốn xóa?')"><img src="~/images/trash-can.png" width="20" height="20" /></a></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+        </div>
+        <!-- /.col -->
+    </div>
+    <!-- /.row -->
+    <!-- /.content -->
+</div>

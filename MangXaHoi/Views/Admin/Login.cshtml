@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SnapBook | Log in</title>
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- icheck bootstrap -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/icheck-bootstrap/3.0.1/icheck-bootstrap.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/admin-lte/3.1.0/css/adminlte.min.css">
+    <style>
+        .login-page {
+            background: #f0f8ff; /* Light blue background */
+        }
+
+        .card {
+            border: none;
+            border-radius: 1rem;
+        }
+
+        .card-primary.card-outline {
+            border-top: 3px solid #AADBE2; /* Green border color */
+        }
+
+        .btn-primary {
+            background-color: #00b050; /* Green button color */
+            border-color: #00b050;
+        }
+
+            .btn-primary:hover {
+                background-color: #AADBE2; /* Darker green on hover */
+                border-color: #AADBE2;
+            }
+
+        .login-box-msg {
+            color: #AADBE2; /* Green text color */
+        }
+
+        .social-auth-links .btn-primary {
+            background-color: #AADBE2; /* Green button color */
+            border-color: #AADBE2;
+        }
+
+            .social-auth-links .btn-primary:hover {
+                background-color: #AADBE2; /* Darker green on hover */
+                border-color: #AADBE2
+            }
+
+        .card-header .h1 {
+            margin-top: 0;
+            margin-bottom: 1rem;
+        }
+
+        .card-header img {
+            width: 150px; /* Increased size */
+            height: auto;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body class="hold-transition login-page">
+    <div class="login-box">
+        <div class="card card-outline card-primary">
+            <div class="card-header text-center">
+                <img src="~/images/logo3.png" alt="SnapBook">
+                <br>
+                @TempData["msg"]
+            </div>
+            <div class="card-body">
+                <form asp-controller="admin" asp-action="login" method="post">
+                    <div class="input-group mb-3">
+                        <input type="email" id="email" class="form-control" placeholder="Email"  name="email">
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-envelope"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                        <input type="password" class="form-control" id="password" placeholder="Password" name="password">
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-lock"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-8">
+                            <div class="icheck-primary">
+                                <input type="checkbox" id="remember">
+                                <label for="remember">
+                                    Remember Me
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                       <div class="social-auth-links text-center mt-2 mb-3">
+                    <input type="submit" class="btn btn-block btn-primary" value="Đăng nhập">
+                </div>
+                </form>
+             
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.0/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/admin-lte/3.1.0/js/adminlte.min.js"></script>
+</body>
+</html>
+
+
